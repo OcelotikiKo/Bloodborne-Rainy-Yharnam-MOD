@@ -4,6 +4,8 @@
 
 *The night is dark, the streets are wet, and the hunt continues.*
 
+## 🌧️ [DOWNLOAD RAINY YHARNAM ON NEXUS MODS](https://www.nexusmods.com/bloodborne/mods/766)
+
 Rainy Yharnam is an atmosphere-focused mod for **Bloodborne Native** that gives Central Yharnam a darker, rainier appearance. It combines storm clouds inspired by the Fishing Hamlet, a full moon, colder nighttime lighting and rain in selected areas, while preserving the warm glow of Yharnam's lamps.
 
 **Links:** [GitHub repository](https://github.com/OcelotikiKo/Bloodborne-Rainy-Yharnam-MOD) · [Author's Nexus Mods profile](https://www.nexusmods.com/profile/OcelotikiKo/mods)
